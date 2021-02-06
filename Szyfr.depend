@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558512359 source:e:\algorytmy i strukutry danych\szyfr\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
